@@ -1,0 +1,7 @@
+Training Prerequisites
+	-Linux CentOS ISO Image
+	isoredirect.centos.org/centos/8/isos/x86_64/
+	-VMware workstation pro
+	https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+	-Serial Keys for VMware workstation pro
+	https://gist.github.com/gopalindians/ec3f3076f185b98353f514b26ed76507
