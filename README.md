@@ -2,6 +2,11 @@
 Course Outlines <br/>
 LinuxCommandShell Guide <br/>
 Course Schedule <br/>
+
+# Course link
 [Course Link](https://www.youtube.com/playlist?list=PLexK3rDTGwNYN0tuYz14lto1pHsy7Oj2X)
+<br>
+
+# Course Poster
 ![Course Poster](Poster/MUFIX%20Summer%20Training%202021.jpg)
 
