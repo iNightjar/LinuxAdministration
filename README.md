@@ -7,3 +7,6 @@
 
 ## ![Course Poster](Poster/MUFIX%20Summer%20Training%202021.jpg)
 
+<div class="blogimage" style="float:right;width:300px;padding:10px 0 10px 10px;">
+    <img src="Poster/MUFIX%20Summer%20Training%202021.jpg"/>
+</div
