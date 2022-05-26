@@ -2,7 +2,7 @@
 
 <img src="https://github.com/iNightjar/Linux-Basic-Adminitration/blob/master/Poster/MUFIX%20Summer%20Training%202021.jpg?raw=true" href="https://github.com/iNightjar" alt="Course Poster"  width="550"/><br> 
   
-<p><strong>[Linux Basic Administration Course](https://www.youtube.com/playlist?list=PLexK3rDTGwNYN0tuYz14lto1pHsy7Oj2X)</p>
+<p>[Linux Basic Administration Course](https://www.youtube.com/playlist?list=PLexK3rDTGwNYN0tuYz14lto1pHsy7Oj2X)</p>
 </div>
 
 ### Course Outlines
