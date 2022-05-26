@@ -4,8 +4,6 @@
   
 ## [Linux Basic Administration Course](https://www.youtube.com/playlist?list=PLexK3rDTGwNYN0tuYz14lto1pHsy7Oj2X)
 
-<br>
-
 ### Course Outlines
 * Linux Ideas and History
 * Linux Usage Basics
